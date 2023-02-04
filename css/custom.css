@@ -34,14 +34,18 @@ button {
     width: 100%;
 }
 
+.text-tiffany {
+    color: #0abab5;
+}
+
 .cta-green {
-    background: #00FFAD;
+    background: #0abab5;
     color: #192440;
 }
 
 .cta-green:hover {
     color: #ffffff;
-    background: #00e69c;
+    background: #0abab5;
 }
 
 .cta-blue {
@@ -66,6 +70,17 @@ button {
 .cta-ghost:hover {
     color: #ffffff;
     background: #121a2e;
+}
+
+.cta-silver {
+    color: #ffffff;
+    background: #7c7c7c;
+}
+
+.cta-silver:hover {
+    /* TODO */
+    color: #ffffff;
+    background: #7c7c7c;
 }
 
 #banner {
@@ -172,7 +187,7 @@ button {
 }
 
 #copyright #social-media a:hover {
-    background: #00FFAD;
+    background: #0abab5;
 }
 
 #copyright #social-media a:hover i {
@@ -200,8 +215,8 @@ button {
 }
 
 #nav.nav-scrolling::after {
-    height: 4rem;
-    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    height: 3.5rem;
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
 #nav .nav-link {
@@ -214,16 +229,26 @@ button {
 }
 
 #nav .nav-link.active {
-    color: #00e69c;
+    color: #0abab5;
 }
 
 #nav.nav-scrolling .nav-link.active {
-    color: #00e69c;
+    color: #0abab5;
+}
+
+#circulo {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
 }
 
 /********** RWD **********/
 @media (max-width: 575px) {
     #banner h1 {
         font-size: 3.6rem;
+    }
+    #circulo {
+        max-width: 230px;
     }
 }
