@@ -25,7 +25,7 @@
         <div class="row justify-content-between">
             <div class="col-md-12 d-flex justify-content-center">
                 <nav class="nav" id="nav">
-                    <a class="nav-link active py-4" href="#">Inicio</a>
+                    <a class="nav-link py-4" href="#">Inicio</a>
                     <a class="nav-link py-4" href="#projetos">Projetos</a>
                     <a class="nav-link py-4" href="#feature-last">Sobre</a>
                     <a class="nav-link py-4" href="#price-table">Curriculo</a>
@@ -37,12 +37,12 @@
 
     <div class="jumbotron jumbotron-fluid d-flex align-items-end" id="banner">
         <div class="container text-center text-md-left">
-            <h1 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-3 text-tiffany font-weight-bold mt-5 mb-1">
+            <!-- <h1 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-3 text-tiffany font-weight-bold mt-5 mb-1">
             	Raphael Borges<br>
             </h1>
             <h2 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-5 text-white font-weight-bold my-0">
                 DevOps
-            </h2>
+            </h2> -->
         </div>
     </div>
     <!-- Projetos -->
@@ -51,23 +51,31 @@
         <div class="row">
             <div data-aos="fade-up" data-aos-delay="0" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center">
                 <a href="http://ec2-52-67-111-218.sa-east-1.compute.amazonaws.com:8000/" target="_blank">
-                    <img src="img/django-portifolio.png" alt="Anti-spam" class="mx-auto">
+                    <img src="img/django-portifolio.png" alt="django portifolio" class="mx-auto">
                     <br>
-                    <h4>Django Netflix</h4>
-                    <p></p>
+                    <div class="row justify-content-between text-md-left d-flex flex-column-reverse flex-md-row">
+                        <h4 class="text-center">Django Netflix: Executando com Docker na AWS</h4>
+                        <article>
+                            <p>Este projeto foi desenvolvido em Python utilizando o framework Django. Para garantir sua disponibilidade e escalabilidade, o mesmo está sendo executado na nuvem AWS, utilizando uma instância EC2 otimizada para esse fim.</p>
+                        </article>
+                    </div>
                 </a>
             </div>
             <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center">
                 <a href="https://documentacao-containers.vercel.app/" target="_blank">
-                    <img src="img/containers-docs.png" alt="Phishing Detect" class="mx-auto">
+                    <img src="img/containers-docs.png" alt="book containers docs" class="mx-auto">
                     <br>
-                    <h4>Documentação Containers</h4>
-                    <p></p>
+                    <div class="row justify-content-between text-md-left d-flex flex-column-reverse flex-md-row">
+                        <article>
+                            <h4 class="text-center">Documentação para Utilização de Containers</h4>
+                            <p>Nesta documentação, você encontrará um guia em constante contrução para uso de containers em seus projetos. Além disso, para tornar mais fácil o acesso a este material, fiz o deploy automatizado da documentação em formato de livro na plataforma Vercel.</p>
+                        </article>
+                    </div>
                 </a>
             </div>
             <div data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center">
                 <img src="img/smart-protect-3.jpg" alt="Smart Scan" class="mx-auto">
-                <h4>Jogo FlappyBird </h4>
+                <h4></h4>
                 <p></p>
             </div>
         </div>
@@ -91,12 +99,13 @@
     <!-- Sobre -->
     <div class="jumbotron jumbotron-fluid feature" id="feature-last">
         <div class="container">
-            <div class="row justify-content-between text-center text-md-left d-flex flex-column-reverse flex-md-row">
+            <div class="row justify-content-between text-md-left d-flex flex-column-reverse flex-md-row">
                 <div data-aos="fade-left" data-aos-duration="1000" data-aos-once="true" class="col-md-6 flex-md-last">
-                    <h2 class="font-weight-bold">Sobre</h2>
-                    <p class="my-4">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ullamcorper facilisis lorem non aliquet. Aliquam lacinia ultrices congue. Quisque porttitor neque massa, vitae maximus augue pharetra sed. Vestibulum in ultrices ante. Aliquam lacinia ultrices congue. Quisque porttitor neque massa, vitae maximus augue pharetra sed. Vestibulum in ultrices ante. Aliquam lacinia ultrices congue. Quisque porttitor neque massa, vitae maximus augue pharetra sed. Vestibulum in ultrices ante. Aliquam lacinia ultrices congue. Quisque porttitor neque massa, vitae maximus augue pharetra sed. Vestibulum in ultrices ante.
-                    </p>
+                    <h2 class="font-weight-bold text-center">Sobre</h2>
+                    <p>Sou um desenvolvedor DevOps, com experiência em desenvolvimento de aplicações web, utilizando as tecnologias HTML, CSS, JavaScript. </p>                        
+                    <p>Atualmente estou estudando e me aprofundando em DevOps, com foco em automação de processos, utilizando as tecnologias Python, Ansible, Terraform, Docker e Kubernetes</p>
+                    <p>Além disso, também estou estudando e me aprofundando em Cloud Computing, com foco em AWS, utilizando tecnologias como EC2, S3, RDS, entre outras.</p>
+                    <p>Tenho conhecimento em Linux, utilizando as distribuições Debian, Ubuntu e Pop!_OS.</p>
                 </div>
                 <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" class="col-md-6 mb-4 align-self-center flex-md-first">
                     <img src="img/raphael-borges.jpg" alt="Raphael Borges" class="mx-auto d-block" id="circulo">
@@ -109,14 +118,15 @@
     <div class="container-fluid" id="price-table">
         <div class="row">
             <div data-aos="fade-up" data-aos-duration="1000" data-aos-once="true" class="col-md-12 text-center py-4" id="price-table__premium">
-                <h2 class="text-center font-weight-bold d-block mb-0">Acesse o meu currículo</h2>
-                <a href="files/Curriculo.pdf" target="_blank" class="btn my-4 font-weight-bold atlas-cta cta-blue">Curriculo</a>
-                <img src="img/feature-2.png" alt="Safe and reliable" class="mx-auto d-block">
+                <a href="files/RaphaelBorges.pdf" target="_blank" class="btn my-4 font-weight-bold ">
+                    <h2 class="text-center font-weight-bold d-block mb-5 atlas-cta cta-blue">Acesse o meu currículo</h2>
+                    <img src="img/curriculo2.png"  alt="Safe and reliable" class="mx-auto d-block">
+                </a>
             </div>
         </div>
     </div>
     <!-- Contato -->
-    <div class="jumbotron jumbotron-fluid" id="contact" style="background-image: url(img/contact-bk.jpg);">
+    <div class="jumbotron jumbotron-fluid" id="contact" style="background-image: url(img/contact-bk.jpg)">
         <div class="container my-5">
             <div class="row justify-content-between">
                 <div class="col-md-6 text-white">
