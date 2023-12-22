@@ -62,7 +62,7 @@ enableGitInfo = true
     customIcon = "code-branch"
 
 [params.google.analytics]
-    ID = "G-6N3BCJM8EK"
+    trackerID = "G-6N3BCJM8EK"
 
 [services]
   [services.googleAnalytics]
