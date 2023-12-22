@@ -5,7 +5,7 @@ pubtype: "Blog Post"
 featured: true
 description: "A blog post about Unbound, a fast, secure, and scalable Recursive DNS Server."
 tags: ["Blog Post", "DNS", "Unbound", "Recursive DNS"]
-image: "/img/2023-03-article-ubound-dns.png"
+image: "/img/2023-03-article-ubound-dns.webp"
 link: "https://medium.com/dailymotion/from-jenkins-to-jenkins-x-604b6cde0ce3"
 weight: 200
 sitemap:

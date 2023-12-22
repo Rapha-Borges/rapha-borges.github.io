@@ -4,7 +4,7 @@ date: 2023-04-03
 featured: true
 description: "In a conversation with Bruno Rocha, I discovered his need to implement an ebook in a project of his that facilitates the migration of Python developers to the Rust language."
 tags: ["py2rs","Python","Rust","mdBook"]
-image: "/img/py2rs.png"
+image: "/img/py2rs.webp"
 link: "https://github.com/rochacbruno/py2rs"
 weight: 200
 sitemap:

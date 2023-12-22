@@ -5,7 +5,7 @@ pubtype: "Blog Post"
 featured: true
 description: "Blog post discussing Digestabot, a new tool from Chainguard, where I explain how to use it and outline the purpose of each feature."
 tags: ["Blog Post","Digestabot","Chainguard", "GitHub", "GitHub Actions", "Docker", "Image", "DevOps", "CI/CD"]
-image: "/img/digestabot.png"
+image: "/img/digestabot.webp"
 link: "https://dev.to/raphaborges/voce-ja-conhece-o-digestabot-787"
 weight: 300
 sitemap:

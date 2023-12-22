@@ -4,7 +4,7 @@ date: 2023-03-05
 featured: true
 description: I contributed to the development of the book "Demystifying Prometheus."
 tags: ["Kubernetes","Prometheus","OpenMetrics","mdBook"]
-image: "/img/descomplicando-prometheus.png"
+image: "/img/descomplicando-prometheus.webp"
 link: "https://github.com/badtuxx/DescomplicandoPrometheus"
 weight: 100
 sitemap:

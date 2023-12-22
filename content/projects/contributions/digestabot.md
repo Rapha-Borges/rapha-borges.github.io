@@ -4,7 +4,7 @@ date: 2023-12-19
 featured: false
 description: "I contributed by correcting the documentation and fixing a typo."
 tags: ["Digestabo","Chainguard","GitHub","GitHub Actions","Docker","Image"]
-image: "/img/digestabot.png"
+image: "/img/digestabot.webp"
 link: "https://github.com/chainguard-dev/digestabot/"
 weight: 300
 sitemap:

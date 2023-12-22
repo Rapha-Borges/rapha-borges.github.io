@@ -5,7 +5,7 @@ pubtype: "Blog Post"
 featured: true
 description: "I built a Github action for automating the deployment of a compiled book."
 tags: ["Blog Post", "GitHub", "GitHub Actions", "GitHub Hackathon", "DevOps", "CI/CD"]
-image: "/img/Github_Badges-03.png"
+image: "/img/github_badges-03.webp"
 link: "https://dev.to/raphaborges/a-custom-action-to-deploy-mdbook-n41"
 weight: 100
 sitemap:

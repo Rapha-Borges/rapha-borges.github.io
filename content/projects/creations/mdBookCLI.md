@@ -4,7 +4,7 @@ date: 2023-03-26
 featured: true
 description: "I developed mdBookCLI to streamline the process of creating an ebook using mdBook."
 tags: ["JavaScript", "Node.js", "Java", "mdBook", "ebook", "CLI"]
-image: "/img/mdbookcli.png"
+image: "/img/mdbookcli.webp"
 link: "https://github.com/Rapha-Borges/mdbookcli"
 weight: 100
 sitemap:
