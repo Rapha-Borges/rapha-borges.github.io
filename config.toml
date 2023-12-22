@@ -1,5 +1,5 @@
 title = "Raphael Borges"
-baseURL = "https://www.r11s.com.br/"
+baseURL = "https://r11s.com.br/"
 theme = "hugo-resume"
 languageCode = "pt-br"
 publishDir = "_site"
