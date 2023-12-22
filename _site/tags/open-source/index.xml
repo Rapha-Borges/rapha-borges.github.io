@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Raphael Borges</title>
+    <link>https://www.r11s.com.br/tags/open-source/</link>
+    <description>Recent content in Open Source on Raphael Borges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.r11s.com.br/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Octopilot</title>
+      <link>https://www.r11s.com.br/projects/creations/octopilot/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/octopilot/</guid>
+      <description>In 2020, while building Dailymotion&amp;rsquo;s new Continuous Delivery platform, I found myself needing a tool to automate the creation of pull requests to implement our Gitops-based workflow. No existing tool really matches our needs, so I created Octopilot: a CLI tool designed to help you automate your Gitops workflow, by automatically creating and merging GitHub Pull Requests to update specific content in Git repositories.
+You can read more about Octopilot in a blog post I wrote on Medium: Introducing Octopilot: a CLI to automate the creation of GitHub pull requests in your gitops workflow.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins X Projects</title>
+      <link>https://www.r11s.com.br/projects/creations/jenkins-x-projects/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/jenkins-x-projects/</guid>
+      <description>I started using Jenkins X in 2018, and since then I&amp;rsquo;ve been contributing to the project.
+Since 2020, I started contributing more to Jenkins X by creating new components, mainly for observability - but also web UIs.
+JX Pipelines Visualizer The first new project I created for Jenkins X was the JX Pipelines Visualizer: a web UI to visualize the pipelines and their logs.
+New @jenkinsxio UI to visualize your pipelines and logs: https://t.</description>
+    </item>
+    
+    <item>
+      <title>Various OpenShift-related projects</title>
+      <link>https://www.r11s.com.br/projects/creations/openshift-projects/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/openshift-projects/</guid>
+      <description>In 2015-2016, while using OpenShift, I developed a few small open-source projects on top of the Kubernetes/OpenShift APIs:
+ OpenShift Dashboard OpenShift Cucumber OpenShift GitHub Hooks OpenShift/Git Integration OpenShift Flowdock Notifier  OpenShift Dashboard When I started using OpenShift, I quickly realized that it was missing a global view of the cluster state. In August 2015 I developed a Web Dashboard for visualization of multi-projects resources in OpenShift.
+This gave me the opportunity to learn the OpenShift/Kubernetes API early on, and improve my Go skills - by reading the OpenShift and Kubernetes code bases.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins Rundeck Plugin</title>
+      <link>https://www.r11s.com.br/projects/creations/jenkins-rundeck-plugin/</link>
+      <pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/jenkins-rundeck-plugin/</guid>
+      <description>In 2011, I wrote a Jenkins plugin to integrate Rundeck as a &amp;ldquo;publisher&amp;rdquo;: the Rundeck plugin.
+This plugin allows the creation of continuous delivery pipelines, using Jenkins to build your software and Rundeck to deploy it. I talked about it at the Paris DevOps meetup in march 2011: Continuous Deployment with Jenkins and Rundeck.
+Note that this plugin is now maintained by the Rundeck team, and is still used by many people.</description>
+    </item>
+    
+    <item>
+      <title>Rundeck API Java Client</title>
+      <link>https://www.r11s.com.br/projects/creations/rundeck-api-java-client/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/rundeck-api-java-client/</guid>
+      <description>In 2011, following the Jenkins Rundeck plugin, I extracted the code that talked to the Rundeck REST API into its own project: the Rundeck API Java Client.
+The goal was to be able to write more software in Java using Rundeck&amp;rsquo;s REST API, for example the Rundeck Remote CLI, or writing scripts
+Note that this project is now maintained by the Rundeck team at rundeck/rundeck-api-java-client, and is still used by many projects/people.</description>
+    </item>
+    
+    <item>
+      <title>Flowdock to Elasticsearch</title>
+      <link>https://www.r11s.com.br/projects/creations/flowdock2es/</link>
+      <pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/flowdock2es/</guid>
+      <description>In 2014, I wanted to play with Elasticsearch and Kibana, so I created a small project to import data from a Flowdock instance into Elasticsearch, and then build a Kibana dashboard to visualize the Flowdock usage.
+It is written in Scala and uses the Flowdock REST API to retrieve data, and the Elastic4s scala lib to populate the Elasticsearch index. I also contributed to the Elastic4s open-source project.
+Here is a screenshot of the Kibana dashboard:</description>
+    </item>
+    
+    <item>
+      <title>Paris DevOps</title>
+      <link>https://www.r11s.com.br/projects/creations/parisdevops/</link>
+      <pubDate>Sun, 27 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/parisdevops/</guid>
+      <description>In 2011, soon after the creation of the Paris DevOps Meetup group, I joined the team and help organize the meetups.
+I built the parisdevops.fr using Jekyll on GitHub Pages: https://github.com/parisdevops/parisdevops.github.com
+I wrote content on the website and organized meetups for a few months in 2011.</description>
+    </item>
+    
+  </channel>
+</rss>

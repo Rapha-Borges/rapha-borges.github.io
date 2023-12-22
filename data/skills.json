@@ -1,0 +1,14 @@
+[
+    {
+        "grouping": "Languages",
+        "skills":   ["Portuguese (native)","English (intermediate)","French (basic)"]
+    },
+    {
+        "grouping": "Practices",
+        "skills":   ["Containers Orchestration","Cloud","CI/CD","Observability","Network Infrastructure","OSI model","Development","Hardware and Operating Systems"]
+    },
+    {
+        "grouping": "Technologies",
+        "skills":   ["Docker","Kubernetes","Terraform","Helm","Prometheus","AWS","Google Cloud Platform","OCI","Python","SQL","Git"]
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mdBook on Raphael Borges</title>
+    <link>https://www.r11s.com.br/tags/mdbook/</link>
+    <description>Recent content in mdBook on Raphael Borges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.r11s.com.br/tags/mdbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mdBookCLI</title>
+      <link>https://www.r11s.com.br/projects/creations/mdbookcli/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/mdbookcli/</guid>
+      <description>While working on the implementation of the &amp;ldquo;Demystifying Prometheus&amp;rdquo; book from LINUXtips, I noticed the need to simplify the process and address certain limitations in the default mdBook interface.
+The mdBookCLI introduces multilingual support in a manner distinct from the standard mdBook, generating a homepage that allows users to choose their preferred language. Additionally, it includes extra customizations not available in the default mdBook version.</description>
+    </item>
+    
+    <item>
+      <title>Demystifying Prometheus</title>
+      <link>https://www.r11s.com.br/projects/contributions/demystifying-prometheus/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/contributions/demystifying-prometheus/</guid>
+      <description>The book Demystifying Prometheus is a crucial component of the Demystifying Prometheus training offered by LINUXtips.
+I contributed to the development of the ebook version, implementing new features and making corrections to links, texts, and titles.
+See all my contributions.</description>
+    </item>
+    
+    <item>
+      <title>py2rs</title>
+      <link>https://www.r11s.com.br/projects/contributions/py2rs/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/contributions/py2rs/</guid>
+      <description>py2rs is a quick reference guide for the Pythonista in process of becoming a Rustacean.
+In a conversation with Bruno Rocha, I discovered his need to implement an ebook in a project of his that facilitates the migration of Python developers to the Rust language. Since I had already developed the mdbookcli tool, I implemented this tool to generate the book.
+See all my contributions.</description>
+    </item>
+    
+  </channel>
+</rss>

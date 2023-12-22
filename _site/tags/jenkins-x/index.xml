@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenkins X on Raphael Borges</title>
+    <link>https://www.r11s.com.br/tags/jenkins-x/</link>
+    <description>Recent content in Jenkins X on Raphael Borges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.r11s.com.br/tags/jenkins-x/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jenkins X Projects</title>
+      <link>https://www.r11s.com.br/projects/creations/jenkins-x-projects/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/jenkins-x-projects/</guid>
+      <description>I started using Jenkins X in 2018, and since then I&amp;rsquo;ve been contributing to the project.
+Since 2020, I started contributing more to Jenkins X by creating new components, mainly for observability - but also web UIs.
+JX Pipelines Visualizer The first new project I created for Jenkins X was the JX Pipelines Visualizer: a web UI to visualize the pipelines and their logs.
+New @jenkinsxio UI to visualize your pipelines and logs: https://t.</description>
+    </item>
+    
+  </channel>
+</rss>

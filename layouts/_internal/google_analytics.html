@@ -1,0 +1,10 @@
+{{- with site.Params.google.analytics.id }}
+{{- $script := resources.GetRemote "https://cdn.jsdelivr.net/npm/@minimal-analytics/ga4/dist/index.js" }}
+<script >
+window.minimalAnalytics = {
+trackingId: '{{ . }}',
+autoTrack: true, // <-- init tracking
+};
+</script>
+<script src="{{ $script.RelPermalink }}" async></script>
+{{- end }}

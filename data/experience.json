@@ -1,0 +1,26 @@
+[
+    {
+        "role":     "Owner",
+        "company":  "Staff Burger",
+        "summary":  "Entrepreneurial journey as Owner of Staff Burger, steering the ship from October 2020 to February 2022 in Porto Alegre, RS, Brazil. I was responsible for the whole business, from the conception of the idea to the execution.",
+        "tags":     ["Restaurants","Food"],
+        "range":    "October 2020 - February 2022",
+        "image":    "/img/staff_burger.png"
+    },
+    {
+        "role":     "Assistant",
+        "company":  "Picanha Catering",
+        "summary":  "At Picanha Catering in Luxembourg, I served as an assistant from July 2018 to August 2019, overseeing seamless event organization, providing dedicated customer support, efficiently troubleshooting issues, and assisting in strategic procurement of essential supplies.",
+        "tags":     ["Restaurants","Food","Events", "Public Relations", "Customer Service"],
+        "range":    "July 2018 - August 2019",
+        "image":    "/img/picanha-catering.png"
+    },
+    {
+        "role":     "Technical Support",
+        "company":  "Contax",
+        "summary":  "As a Technical Support professional at Contax in Porto Alegre, RS, Brazil, I excelled in addressing critical customer issues previously handled by other departments. I engaged in direct communication with managers and leaders of technical teams in the serviced regions, while monitoring and resolving critical and impactful cases.",
+        "tags":     ["Customer Service", "Technical Support", "Troubleshooting", "Communication", "Infrastructure"],
+        "range":    "July 2013 - April 2015",
+        "image":    "/img/contax.png"
+    }
+]

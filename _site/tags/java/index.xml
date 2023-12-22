@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Raphael Borges</title>
+    <link>https://www.r11s.com.br/tags/java/</link>
+    <description>Recent content in Java on Raphael Borges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.r11s.com.br/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mdBookCLI</title>
+      <link>https://www.r11s.com.br/projects/creations/mdbookcli/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/mdbookcli/</guid>
+      <description>While working on the implementation of the &amp;ldquo;Demystifying Prometheus&amp;rdquo; book from LINUXtips, I noticed the need to simplify the process and address certain limitations in the default mdBook interface.
+The mdBookCLI introduces multilingual support in a manner distinct from the standard mdBook, generating a homepage that allows users to choose their preferred language. Additionally, it includes extra customizations not available in the default mdBook version.</description>
+    </item>
+    
+  </channel>
+</rss>

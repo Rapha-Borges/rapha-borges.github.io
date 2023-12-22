@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Contributions on Raphael Borges</title>
+    <link>https://www.r11s.com.br/projects/contributions/</link>
+    <description>Recent content in Open Source Contributions on Raphael Borges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    
+	<atom:link href="https://www.r11s.com.br/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demystifying Prometheus</title>
+      <link>https://www.r11s.com.br/projects/contributions/demystifying-prometheus/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/contributions/demystifying-prometheus/</guid>
+      <description>The book Demystifying Prometheus is a crucial component of the Demystifying Prometheus training offered by LINUXtips.
+I contributed to the development of the ebook version, implementing new features and making corrections to links, texts, and titles.
+See all my contributions.</description>
+    </item>
+    
+    <item>
+      <title>py2rs</title>
+      <link>https://www.r11s.com.br/projects/contributions/py2rs/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/contributions/py2rs/</guid>
+      <description>py2rs is a quick reference guide for the Pythonista in process of becoming a Rustacean.
+In a conversation with Bruno Rocha, I discovered his need to implement an ebook in a project of his that facilitates the migration of Python developers to the Rust language. Since I had already developed the mdbookcli tool, I implemented this tool to generate the book.
+See all my contributions.</description>
+    </item>
+    
+    <item>
+      <title>Digestabot</title>
+      <link>https://www.r11s.com.br/projects/contributions/digestabot/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/contributions/digestabot/</guid>
+      <description>I contributed by suggesting a correction in the documentation where the wrong version reference was used. Additionally, I pointed out a typographical error in the code that prevented the &amp;lsquo;create_pr_update&amp;rsquo; variable from changing its value to &amp;lsquo;true,&amp;rsquo; causing the bot to fail in opening the pull request for image updates. The correction pull request was created by the project maintainer, Carlos Panato, after we discussed the issue on Twitter.
+After using it a few times, I missed the option to customize the pull request message.</description>
+    </item>
+    
+  </channel>
+</rss>

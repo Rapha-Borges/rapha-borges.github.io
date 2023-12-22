@@ -1,0 +1,7 @@
+{{- $src := .Get "src" | default (.Get 0) -}}
+{{- $type := .Get "type" | default (.Get 1) }}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <video preload="none" controls="controls">
+    <source src="{{ $src }}" type="{{ $type }}">
+  </video>
+</div>

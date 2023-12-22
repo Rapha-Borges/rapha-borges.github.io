@@ -1,0 +1,75 @@
+title = "Raphael Borges"
+baseURL = "https://www.r11s.com.br/"
+theme = "hugo-resume"
+languageCode = "pt-br"
+publishDir = "_site"
+resourceDir = ".cache/resources"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = true
+
+[params]
+    firstName = "Raphael"
+    lastName = "Borges"
+    address = "São Bernado do Campo, SP"
+    phone = "+55 11 990173638"
+    contactNote = "Available for hire"
+    profileImage = "img/rborgs.jpeg"
+    email = "raphael.n.borges@gmail.com"
+    description = "DevOps Engineer with AWS and OCI certifications, proficient in Docker, Kubernetes, CI/CD, and Python. Over 15 years of experience in Linux systems and active participation in open-source projects."
+    favicon = "favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showAccomplishments = true
+    showExperience = true
+    showEducation = true
+
+    showBlog = false
+    showQr = false
+
+    # do you want to show git hash on page footer and link to repo? Add commit prefix here.
+    gitCommitPrefix = "https://github.com/rapha-borges/rapha-borges.github.io/commit"
+
+[[params.handles]]
+    name = "Download Resume"
+    link = "/cv/raphael-borges.pdf"
+    customIcon = "file-pdf"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/raphanborges"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/rapha-borges/"
+
+[[params.handles]]
+    name = "Dev.to"
+    link = "https://dev.to/raphaborges"
+    customIcon = "blog"
+
+[[params.handles]]
+    name = "Fork this repo on GitHub"
+    link = "https://github.com/rapha-borges/rapha-borges.github.io"
+    customIcon = "code-branch"
+
+[params.google.analytics]
+    ID = "G-6N3BCJM8EK"
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-6N3BCJM8EK'
+
+[outputs]
+    home = ["HTML", "JSON"]
+
+[taxonomies]
+    tag = "tags"
