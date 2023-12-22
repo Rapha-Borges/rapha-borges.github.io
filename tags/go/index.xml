@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Raphael Borges</title>
+    <link>https://www.r11s.com.br/tags/go/</link>
+    <description>Recent content in Go on Raphael Borges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.r11s.com.br/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Octopilot</title>
+      <link>https://www.r11s.com.br/projects/creations/octopilot/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/octopilot/</guid>
+      <description>In 2020, while building Dailymotion&amp;rsquo;s new Continuous Delivery platform, I found myself needing a tool to automate the creation of pull requests to implement our Gitops-based workflow. No existing tool really matches our needs, so I created Octopilot: a CLI tool designed to help you automate your Gitops workflow, by automatically creating and merging GitHub Pull Requests to update specific content in Git repositories.
+You can read more about Octopilot in a blog post I wrote on Medium: Introducing Octopilot: a CLI to automate the creation of GitHub pull requests in your gitops workflow.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins X Projects</title>
+      <link>https://www.r11s.com.br/projects/creations/jenkins-x-projects/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/jenkins-x-projects/</guid>
+      <description>I started using Jenkins X in 2018, and since then I&amp;rsquo;ve been contributing to the project.
+Since 2020, I started contributing more to Jenkins X by creating new components, mainly for observability - but also web UIs.
+JX Pipelines Visualizer The first new project I created for Jenkins X was the JX Pipelines Visualizer: a web UI to visualize the pipelines and their logs.
+New @jenkinsxio UI to visualize your pipelines and logs: https://t.</description>
+    </item>
+    
+    <item>
+      <title>Various OpenShift-related projects</title>
+      <link>https://www.r11s.com.br/projects/creations/openshift-projects/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.r11s.com.br/projects/creations/openshift-projects/</guid>
+      <description>In 2015-2016, while using OpenShift, I developed a few small open-source projects on top of the Kubernetes/OpenShift APIs:
+ OpenShift Dashboard OpenShift Cucumber OpenShift GitHub Hooks OpenShift/Git Integration OpenShift Flowdock Notifier  OpenShift Dashboard When I started using OpenShift, I quickly realized that it was missing a global view of the cluster state. In August 2015 I developed a Web Dashboard for visualization of multi-projects resources in OpenShift.
+This gave me the opportunity to learn the OpenShift/Kubernetes API early on, and improve my Go skills - by reading the OpenShift and Kubernetes code bases.</description>
+    </item>
+    
+  </channel>
+</rss>
