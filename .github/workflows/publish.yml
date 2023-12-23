@@ -29,7 +29,7 @@ jobs:
       #   # need to run it twice to get the `LastPage`
       #   run: |
       #     nix-shell --command 'lualatex -interaction=nonstopmode rapha-borges.tex; lualatex -interaction=nonstopmode rapha-borges.tex'
-      #     cp rapha-borges.pdf ../_site/cv/rapha-borges.pdf
+      #     cp raphael-borges.pdf ../_site/cv/raphael-borges.pdf
       #   working-directory: ./cv
 
       - name: Deploy
