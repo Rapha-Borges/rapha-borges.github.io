@@ -20,7 +20,3 @@ Forked from [vbehar/vbehar.github.io](https://github.com/vbehar/vbehar.github.io
 ## Continuous Delivery
 
 Every push to the `sources` branch will rebuild the whole website and the PDF resume, and write the result in the [master](https://github.com/rapha-borges/rapha-borges.github.io/tree/master) branch.
-
-### About branches
-
-The default branch is `sources` (instead of `master`) because GitHub Pages only supports reading HTML content from the `master` branch - for user's pages. This is why I'm writing the sources in the `sources` branch, and publishing the generated HTML pages to the `master` branch.

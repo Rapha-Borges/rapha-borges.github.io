@@ -5,6 +5,7 @@ pubtype: "Blog Post"
 featured: true
 description: "A blog post about Unbound, a fast, secure, and scalable Recursive DNS Server."
 tags: ["Blog Post", "DNS", "Unbound", "Recursive DNS"]
+keywords: ["Blog Post", "DNS", "Unbound", "Recursive DNS"]
 image: "/img/2023-03-article-ubound-dns.webp"
 link: "https://medium.com/dailymotion/from-jenkins-to-jenkins-x-604b6cde0ce3"
 weight: 200
@@ -18,5 +19,3 @@ In March 2023, I wrote a blog post on [dev.to](https://dev.to/) titled "Um servi
 - It was re-published on [Linkedin](https://www.linkedin.com/pulse/unbound-um-servidor-dns-recursivo-r%C3%A1pido-seguro-e-escal%C3%A1vel-borges/),
 
 You can read [the full blog post](https://dev.to/raphaborges/um-servidor-dns-recursivo-rapido-seguro-e-escalavel-28bo) on dev.to.
-
-{{< tweet 1653155312143155200 >}}
