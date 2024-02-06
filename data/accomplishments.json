@@ -3,7 +3,8 @@
         "grouping": "Certifications",
         "skills": [
             {"name": "AWS Certified Cloud Practitioner", "link": "https://www.credly.com/badges/e5c06e8e-fd7c-44d4-9789-a2ae90cfe08a/linked_in_profile"},
-            {"name": "Oracle Cloud Infrastructure 2023 Certified Foundations Associate", "link": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=C042FDBA11BC6296444BCF072196BA4674EC42C9CC4929C596A078345DAF5F72"}
+            {"name": "Oracle Cloud Infrastructure 2023 Certified Foundations Associate", "link": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=C042FDBA11BC6296444BCF072196BA4674EC42C9CC4929C596A078345DAF5F72"},
+            {"name": "Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate", "link": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB9025F883F63E4EBF818D62492A4F26200C8CC44CC86825C94DC8D9741EB8E4"}
         ]
     },
     {

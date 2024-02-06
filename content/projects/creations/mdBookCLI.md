@@ -6,7 +6,7 @@ description: "I developed mdBookCLI to streamline the process of creating an ebo
 tags: ["JavaScript", "Node.js", "Java", "mdBook", "ebook", "CLI"]
 image: "/img/mdbookcli.webp"
 link: "https://github.com/Rapha-Borges/mdbookcli"
-weight: 100
+weight: 200
 sitemap:
   priority : 0.8
 ---
