@@ -1,5 +1,13 @@
 [
     {
+        "role":     "IT Consultant",
+        "company":  "IT Consultant",
+        "summary":  "As an IT Consultant, I deliver independent consultancy and technical support with expertise and dedication. Ensuring seamless operations and optimal performance.",
+        "tags":     ["Technical Support","DevOps","Infrastructure","Cloud Computing"],
+        "range":    "February 2022 - Present",
+        "image":    "/img/logo.webp"
+    },
+    {
         "role":     "Owner",
         "company":  "Staff Burger",
         "summary":  "Entrepreneurial journey as Owner of Staff Burger, steering the ship from October 2020 to February 2022 in Porto Alegre, RS, Brazil. I was responsible for the whole business, from the conception of the idea to the execution.",
