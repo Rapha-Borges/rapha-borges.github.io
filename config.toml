@@ -35,8 +35,13 @@ enableGitInfo = true
     gitCommitPrefix = "https://github.com/rapha-borges/rapha-borges.github.io/commit"
 
 [[params.handles]]
-    name = "Download Resume"
-    link = "/cv/raphael-borges.pdf"
+    name = "Download Resume - EN"
+    link = "/cv/raphael-borges-en.pdf"
+    customIcon = "file-pdf"
+
+[[params.handles]]
+    name = "Download Resume - PT/BR"
+    link = "/cv/raphael-borges-pt-br.pdf"
     customIcon = "file-pdf"
 
 [[params.handles]]
